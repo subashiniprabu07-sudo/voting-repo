@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voting App</title>
+</head>
+<body>
+
+<h2><b>Online Voting System</b></h2>
+<hr>
+
+<form>
+    <p><b>Select Your CM:</b></p>
+
+    <input type="radio" name="vote"> <b>TVK</b><br><br>
+    <input type="radio" name="vote"> <b>ADMK</b><br><br>
+    <input type="radio" name="vote"> <b>DMK</b><br><br>
+    
+    <center><input type="submit" value="Vote"></center>
+  
+</form>
+
+<hr>
+<p><small>Thank you for voting!</small></p>
+
+</body>
+</html>
